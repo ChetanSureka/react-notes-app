@@ -5,7 +5,7 @@
 4. - npm run build //BUILDS THE APP FOR PRODUCTION
 5. - npm server //SERVES THE Backend Json server ON PORT 5000
 
-Note The app uses a json server which serves as a backend to the frontend
+Note:- The app uses a json server which serves as a backend to the frontend
 
 # Notes List Images
 <img src="./image.png">
